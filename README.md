@@ -6,5 +6,4 @@ provided by react.
 
 
 # Live link
-![react logo][logo]
-[logo]: https://github.com/A-Scode/react-all-hooks/blob/master/public/logo512.png
+![react logo]( https://github.com/A-Scode/react-all-hooks/blob/master/public/logo512.png)
