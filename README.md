@@ -6,4 +6,4 @@ provided by react.
 ![srctsht](https://github.com/A-Scode/react-all-hooks/blob/master/scrsht.png)
 
 # Live link
-![react logo]( https://github.com/A-Scode/react-all-hooks/blob/master/public/logo512.png)
+[![react logo]( https://github.com/A-Scode/react-all-hooks/blob/master/public/logo512.png)](https://a-scode.github.io/react-all-hooks/)
